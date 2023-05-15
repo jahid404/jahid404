@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jahidul Islam</h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
+<h2 align="left">Hi there!<br/>I'm Jahidul Islam</h2>
+<h3 align="left">A passionate web developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahid404&label=Profile%20views&color=0e75b6&style=flat" alt="jahid404" /> </p>
 
