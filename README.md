@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahid404&label=Profile%20views&color=0e75b6&style=flat" alt="jahid404" /> </p>
 
-- 🌱 I’m currently learning **React.JS, PHP**
+- 🌱 I’m currently learning **Laravel**
 
 - 👯 I’m looking to collaborate on **github**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jahid404](https://github.com/jahid404)
 
-- 💬 Ask me about **PHP, JavaScript**
+- 💬 Ask me about **PHP, Laravel**
 
 - 📫 How to reach me **jsjahidmini@gmail.com**
 
