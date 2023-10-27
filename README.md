@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahid404&label=Profile%20views&color=0e75b6&style=flat" alt="jahid404" /> </p>
 
-- 🌱 I’m currently working with **Laravel**
+- 🌱 I’m currently working with **Laravel Application Development**
 
 - 👯 I’m looking to collaborate on **github**
 
