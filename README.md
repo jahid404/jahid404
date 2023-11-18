@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jsjahidmini@gmail.com**
 
-- 📄 [See my rusume](https://docs.google.com/document/d/1DV18rrzRBbiUQjS32xsXOZDR9OixpNN3/edit?usp=drivesdk&ouid=111735510180386861943&rtpof=true&sd=true)
+- 📄 [See my rusume](https://dreamersdesire.xyz/public/assets/img/CV_Jahid.jpg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
