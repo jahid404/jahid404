@@ -1,34 +1,85 @@
-<h2 align="center">Hi there 🤘!<br/>I'm Jahidul Islam</h2>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
+<div align="center">
+  <img height="250" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjQs_RVIYTDvehNNwePRLbT0HAlgtCVdewkvGoHPpNJ6uhGC0K1-9x3bWTl17k2r2VA5n6RZKkRQ4uZiIDCRayC4SXhzMe9WvKwdBakoL3gr2kXCPYJqkU3G4M_zvYD8DVt2MUp510V4FJGRMeKUlZ0BC_C42uFqg3DjnJtDOs2KZBkom8_u3xvrFo07A/s1600"  />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jahid404&label=Profile%20views&color=0e75b6&style=flat" alt="jahid404" /> </p>
+###
 
-- 🌱 I’m currently working with **Laravel Application Development**
+<h2 align="center">Welcome to DreamersDesire World 🤟</h2>
 
-- 👯 I’m looking to collaborate on **github**
+###
 
-- 🤝 I’m looking for help with **web developers**
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jahid404.jahid404&left_text=Profile%20views:%20%20%20%20%20%20"  />
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/jahid404](https://github.com/jahid404)
+###
 
-- 💬 Ask me about **PHP, Laravel**
+<div align="center">
+  <a href="https://www.facebook.com/anonymous.jahid" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="mailto:jsjahidmini@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/jahid400" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://api.whatsapp.com/send/?phone=+8801817240585&text=Hi" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="mailto:jahid400@outlook.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  </a>
+</div>
 
-- 📫 How to reach me **jsjahidmini@gmail.com**
+###
 
-- 📄 [See my rusume](https://dreamersdesire.xyz/public/assets/img/CV_Jahid.jpg)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="34" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="34" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="34" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="34" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="34" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="34" alt="composer logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="34" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="34" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="34" alt="vscode logo"  />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/anonymous_jahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anonymous_jahid" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jahidul-islam-jahid-422471234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://bd.linkedin.com/in/jahidul-islam-jahid-422471234" height="30" width="40" /></a>
-<a href="https://facebook.com/anonymous.jahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/anonymous.jahid" height="30" width="40" /></a>
+###
+
+<img src="https://raw.githubusercontent.com/jahid404/jahid404/output/snake.svg" alt="Snake animation" />
+
+###
+
+<p align="left">⚒️ I’m currently working with - Laravel Application Development
+    <br><br>👯 I’m looking to collaborate on - Github
+    <br><br>📦 All of my projects are available at - <a href="https://dreamersdesire.xyz">DreamersDesire</a>
+    <br><br>🗒️ <a href="https://dreamersdesire.xyz/public/assets/img/CV_Jahid.jpg">View Resume</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahid404&show_icons=true&locale=en&layout=compact" alt="jahid404" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jahid404&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="135" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=jahid404&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=Github%20Statistics" height="145" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=jahid404&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="145" alt="streak graph"  />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jahid404&show_icons=true&locale=en" alt="jahid404" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahid404&" alt="jahid404" /></p>
+###
