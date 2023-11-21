@@ -64,7 +64,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jahid404/jahid404/output/snake.svg" alt="Snake animation" />
+<!--img src="https://raw.githubusercontent.com/jahid404/jahid404/output/snake.svg" alt="Snake animation" /-->
 
 ###
 
