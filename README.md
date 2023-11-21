@@ -71,12 +71,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jahid404&bg_color=00051f&color=00ccff&line=b30000&point=00a6c7&area=true&hide_border=true&custom_title=Contributions%20of%20last%2030%20days" alt="Activity graph" />
-</div>
-
-###
-
 <p align="left">⚒️ I’m currently working with - Laravel Application Development
     <br><br>👯 I’m looking to collaborate on - Github
     <br><br>📦 All of my projects are available at - <a href="https://dreamersdesire.xyz">DreamersDesire</a>
@@ -90,6 +84,10 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jahid404&bg_color=00051f&color=00ccff&line=b30000&point=00a6c7&area=true&hide_border=true&custom_title=Contributions%20of%20last%2030%20days" alt="Activity graph" />
+</div>
 
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jahid404&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="145" alt="languages graph" /> <br>
