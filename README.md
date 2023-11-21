@@ -65,7 +65,8 @@
 ###
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/jahid404/jahid404/output/snake.svg" alt="Snake animation" />
+    <img src="https://raw.githubusercontent.com/jahid404/jahid404//output_stats/generated/overview.svg" alt="Overview Stats" />
+    <img src="https://raw.githubusercontent.com/jahid404/jahid404//output_stats/generated/languages.svg" alt="Language Stats" />
 </div>
 
 ###
