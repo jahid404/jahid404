@@ -65,7 +65,7 @@
 ###
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jahid404&bg_color=00051f&color=00ccff&line=b30000&point=00a6c7&area=true&hide_border=true" alt="Activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jahid404&bg_color=00051f&color=00ccff&line=b30000&point=00a6c7&area=true&hide_border=true&custom_title=Contributions%20of%20last%2030%20days" alt="Activity graph" />
 </div>
 
 ###
