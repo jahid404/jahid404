@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Welcome to DreamersDesire World 🤟</h2>
+<h1 align="center">Welcome to DreamersDesire World 🤟</h1>
 
 ###
 
@@ -64,7 +64,7 @@
 
 ###
 
-<!--img src="https://raw.githubusercontent.com/jahid404/jahid404/output/snake.svg" alt="Snake animation" /-->
+<!-- <img src="https://raw.githubusercontent.com/jahid404/jahid404/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
@@ -77,9 +77,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jahid404&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="135" alt="languages graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=jahid404&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=Github%20Statistics" height="145" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=jahid404&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="145" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jahid404&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="145" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=jahid404&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=Github%20Statistics" height="150" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=jahid404&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
