@@ -65,7 +65,7 @@
 ###
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/jahid404/jahid404/output/snake.svg" alt="Snake animation" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jahid404&bg_color=00051f&color=00ccff&line=b30000&point=00a6c7&area=true&hide_border=true" alt="Activity graph" />
 </div>
 
 ###
@@ -79,7 +79,7 @@
 ###
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jahid404&bg_color=00051f&color=00ccff&line=b30000&point=00a6c7&area=true&hide_border=true" alt="Activity graph" />
+    <img src="https://raw.githubusercontent.com/jahid404/jahid404/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
