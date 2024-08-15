@@ -75,8 +75,8 @@
 <!--     <br><br>📦 All of my projects are available at - <a href="https://dreamersdesire.xyz">DreamersDesire</a> -->
     <br><br>📦 Some of my recent projects: - 
   <a href="https://medisyncplus.dreamersdesire.xyz">MediSync Plus</a>,
-  <a href="https://tillbeauty.dreamersdesire.xyz">TilBeauty</a>,
-  <a href="https://campuschina.dreamersdesire.xyz">CampusChina</a>,
+  <a href="https://tilbeauty.dreamersdesire.xyz">TilBeauty</a>,
+  <a href="https://rminternationaledu.com">RM Education</a>,
   <a href="https://malishaedu.dreamersdesire.xyz">MalishaEdu</a>,
   <a href="https://paloma-enterprise.com">Paloma Enterprise</a> and many more...
     <br><br>🗒️ <a href="https://dreamersdesire.xyz/public/assets/img/CV_Jahid.jpg">View Resume</a>
