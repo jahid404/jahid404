@@ -82,7 +82,7 @@
   <a href="https://rminternationaledu.com">RM Education</a>,
   <a href="https://malishaedu.com">MalishaEdu</a>,
   <a href="https://paloma-enterprise.com">Paloma Enterprise</a> and many more...
-    <br><br>🗒️ <a href="https://dreamersdesire.com/public/assets/img/CV_Jahid.jpg">View Resume</a>
+    <br><br>🗒️ <a href="https://dreamersdesire.com/assets/images/mees/cv_jahid.jpg">View Resume</a>
 </p>
 
 ###
