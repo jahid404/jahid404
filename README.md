@@ -64,25 +64,15 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jahid404&bg_color=00051f&color=00ccff&line=b30000&point=00a6c7&area=true&hide_border=true&custom_title=Contributions%20of%20last%2030%20days" alt="Activity graph" />
-</div>
-
-###
-
 <p align="left">⚒️ I’m currently working with - Laravel Application Development
     <br><br>👯 I’m looking to collaborate on - Github
 <!--     <br><br>📦 All of my projects are available at - <a href="https://dreamersdesire.xyz">DreamersDesire</a> -->
     <br><br>📦 Some of my recent projects: - 
-  <a href="https://institutelms.datapollex.com">Prism Science Academy</a>,
-  <a href="https://studyroom.com.bd">StudyRoom LMS</a>,
-  <a href="https://mayfairstationery.com">Stationery Solutions</a>,
-  <a href="https://medisyncplus.dreamersdesire.com">MediSync Plus</a>,
-  <a href="https://tilbeauty.com">TilBeauty</a>,
-  <a href="https://rminternationaledu.com">RM Education</a>,
-  <a href="https://malishaedu.com">MalishaEdu</a>,
-  <a href="https://paloma-enterprise.com">Paloma Enterprise</a> and many more...
-    <br><br>🗒️ <a href="https://dreamersdesire.com/assets/images/mees/cv_jahid.jpg">View Resume</a>
+  <a href="https://gobeshona.app">Gobeshona (LMS)</a>,
+  <a href="https://drshafiscienceacademy.com">Academy of Science (LMS)</a>,
+  <a href="https://studyroom.com.bd">StudyRoom (LMS)</a>,
+  <a href="https://malishaedu.com">Malisha Edu</a> and many more...
+    <br><br>🗒️ <a href="https://drive.google.com/file/d/1cc8V4q3V_g3b4h80hmW63C25fCff3mMO/view?usp=sharing">View Resume</a>
 </p>
 
 ###
@@ -95,9 +85,7 @@
 ###
 
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jahid404&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jahid404&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=Github%20Statistics" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=jahid404&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=jahid404&theme=tokyonight-duo&border_radius=35&timezone=Asia%2FDhaka&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 ###
