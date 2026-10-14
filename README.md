@@ -1,6 +1,6 @@
 <div align="center">
 
-# Jahid
+# Jahidul Islam Jahid
 
 **Full-stack developer · Laravel & MERN · Building for the web**
 
