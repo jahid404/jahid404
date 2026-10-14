@@ -1,6 +1,6 @@
 <div align="center">
 
-# Jahidul Islam Jahid
+# Jahid
 
 **Full-stack developer · Laravel & MERN · Building for the web**
 
@@ -32,20 +32,50 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js&theme=dark&perline=5" />
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js&theme=light&perline=5" alt="MERN" />
-</picture>
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,laravel,postgres,mysql,nginx,linux&theme=dark&perline=6" />
-  <img src="https://skillicons.dev/icons?i=php,laravel,postgres,mysql,nginx,linux&theme=light&perline=6" alt="Backend and infrastructure" />
-</picture>
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,bootstrap,python,firebase,git&theme=dark&perline=6" />
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,python,firebase,git&theme=light&perline=6" alt="Frontend and tools" />
-</picture>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="38" alt="MongoDB" title="MongoDB" />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/express/888888" height="38" alt="Express" title="Express" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="React" title="React" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38" alt="Node.js" title="Node.js" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="JavaScript" title="JavaScript" />
+</p>
+<p>
+  <img src="https://cdn.simpleicons.org/nextdotjs/888888" height="38" alt="Next.js" title="Next.js" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="38" alt="Vue.js" title="Vue.js" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="38" alt="Nuxt.js" title="Nuxt.js" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" alt="HTML5" title="HTML5" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="CSS3" title="CSS3" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="38" alt="Bootstrap" title="Bootstrap" />
+</p>
+<p>
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="38" alt="PHP" title="PHP" />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="38" alt="Laravel" title="Laravel" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="38" alt="PostgreSQL" title="PostgreSQL" />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="38" alt="MySQL" title="MySQL" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="38" alt="Firebase" title="Firebase" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="Python" title="Python" />
+</p>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="38" alt="Nginx" title="Nginx" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="38" alt="Linux" title="Linux" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="Git" title="Git" />
+</p>
 
 </div>
 
@@ -53,7 +83,7 @@
 
 | Area | Technologies |
 | :-- | :-- |
-| **Frontend** | React, JavaScript, HTML, CSS, Bootstrap |
+| **Frontend** | React, Next.js, Vue.js, Nuxt.js, JavaScript, HTML, CSS, Bootstrap |
 | **Backend** | Node.js, Express, Laravel, PHP |
 | **Databases** | MongoDB, PostgreSQL, MySQL, Firebase |
 | **Infrastructure** | Linux, Nginx, Git |
